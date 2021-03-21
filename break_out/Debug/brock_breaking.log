@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (brock_breaking.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Source.cpp
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(249,16): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(264,16): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(277,16): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(289,17): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(296,17): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(304,17): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(311,17): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(649,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(650,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(653,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(655,61): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(665,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(666,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(669,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(671,61): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(681,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(682,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(685,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(687,61): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(707,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(709,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomof\OneDrive\Desktop\brock_breaking\brock_breaking\Source.cpp(718,27): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  brock_breaking.vcxproj -> C:\Users\tomof\OneDrive\Desktop\brock_breaking\Debug\break_out.exe
